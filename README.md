@@ -4,4 +4,4 @@
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
 </p>
 
-### Halo 👋
+<h1 align="center">Halo 👋</h1>
